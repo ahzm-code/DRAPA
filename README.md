@@ -73,7 +73,7 @@ The executable BPMN **simulator**, the **quantitative analysis component**, the 
 Step 0: Adding  Activiti Designer  plugin in Eclipse
 [Link: How to install Activiti Designer plugin in Eclipse/STS](https://websparrow.org/misc/how-to-install-activiti-designer-plugin-in-eclipse-sts)
 
-Step 1:  git clone git@github.com:ahzm-code/DRAPA.git
+Step 1:  git clone https://github.com/ahzm-code/DRAPA.git
 
 Step 2:  In Eclipse, select File->Import-> Maven -> Exisiting Maven Projects
 
