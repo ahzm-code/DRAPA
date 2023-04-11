@@ -91,7 +91,7 @@ Go to the "src/main/resources/" directory, then configure the database name, acc
 
 ## 6. Structure of the project
 
-![overview](./fig/overview.PNG)
+![overview](./fig/overview.png)
 
 ## 7. Operating instructions
 
