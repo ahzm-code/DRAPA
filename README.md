@@ -83,15 +83,15 @@ Step 4: Updating database information
 
 Go to the "src/main/resources/" directory, then configure the database name, account and password (activiti.cfg.xml).
 
-![activiti.cfg.xml](./fig/xml.png)
+![activiti.cfg.xml](./fig/xml.PNG)
 
-![activiti.cfg.xml](./fig/configure.png)
+![activiti.cfg.xml](./fig/configure.PNG)
 
 
 
 ## 6. Structure of the project
 
-![overview](./fig/overview.png)
+![overview](./fig/overview.PNG)
 
 ## 7. Operating instructions
 
