@@ -99,13 +99,13 @@ Go to the "src/main/resources/" directory, then configure the database name, acc
 
 7.1.1 Go to folder "src/main/resources/bpmn", then right click and select 'new', then 'other', then select "Activiti Diagram" under the "Acitiviti" folder (see figure x).
 
-![bpmn](./fig/bpmn.png)
+![bpmn](./fig/bpmn.PNG)
 
 7.1.2 Configure BPMN ID & BPMN name
 
 Select the "Properties" section.
 
-![bpmn](./fig/bpmn_config.png)
+![bpmn](./fig/bpmn_config.PNG)
 
 
 
@@ -117,7 +117,7 @@ Step 2: Click on New to add a new attribute, or Edit to modify the selected attr
 
 (The figure below shows adding execution time to a task.)
 
-![task_Field](./fig/addField.png)
+![task_Field](./fig/addField.PNG)
 
 ### 7.2. Deploying a BPMN process
 
@@ -129,17 +129,17 @@ Deploying a process
 
 Add the global resources required by the process and configure its parameters for the process after deployment.
 
-![deploy](./fig/resource.png)
+![deploy](./fig/resource.PNG)
 
 ### 7.4. Instances
 Define workload, and generate process instances with variables
 
-![deploy](./fig/instances.png)
+![deploy](./fig/instances.PNG)
 
 ### 7.5. Executor
 Execute the process
 
-![deploy](./fig/executor.png)
+![deploy](./fig/executor.PNG)
 
 ### 7.6. Predictive Analytics
 
